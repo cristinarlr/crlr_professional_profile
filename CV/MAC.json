@@ -251,6 +251,12 @@
       },
       {
         "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Inteligencia emocional",
           "type": "practice"
         }
