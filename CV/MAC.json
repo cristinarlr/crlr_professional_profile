@@ -254,6 +254,12 @@
           "name": "Inteligencia emocional",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
