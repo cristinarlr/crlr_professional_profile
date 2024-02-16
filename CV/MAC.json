@@ -1,0 +1,313 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Cristina",
+      "surnames": "Ramírez López-Ramallal",
+      "title": "R&D Specialist turned into Tech",
+      "description": "I'm an R&D specialist turned tech enthusiast, driven by a passion for problem-solving and a curiosity that keeps me seeking new challenges. My background in R&D has honed my analytical thinking, creativity, and effective communication skills, which I now bring to the world of technology.\n\nI have a natural aptitude for organizing and a keen interest in leveraging technology to optimize systems, which led me to make a pivotal decision in my career. Recognizing the importance of merging my managerial skills with my passion for technology, I took a bold step to quit my job and pursue software development at 42 School.\n\nHere, I've confirmed my passion for technology and discovered the critical role of team management in technological environments. I am now eager to blend my technical expertise with my managerial skills in a full-time hybrid or remote position with an international focus, where I can make a  human and/or ecological impact with my work.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/16/b30d6a88-8ad7-42d8-8d03-19f613d4b3d4_prof-pic.png",
+        "alt": "prof pic.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/cramirezlopezramallal/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/cristinarlr"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bosques Naturales S.A."
+        },
+        "roles": [
+          {
+            "name": "Research and Development Specialist",
+            "startDate": "2018-01-01",
+            "finishDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "Researched natural compounds for eco-friendly extraction, maximizing yields and enabling new business opportunities.\nReviewed and optimized lab control, designing and implementing an Excel system for precise planning and scaling.\nManaged lab teams and projects, streamlining methodologies to reduce stages and increase survival rates by 35%.\nCollaborating on boosting a new commercial strategy of timber products, successfully opening new markets,."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Congress of Deputies"
+        },
+        "roles": [
+          {
+            "name": "Technical Advisor and Team Facilitator",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-02-01",
+            "challenges": [
+              {
+                "description": "Advised on Cooperation and Energy/Environment issues, resulting in informed decision-making and sustainable policies.\nCrafted technical texts for parliamentary initiatives, facilitating clear communication and effective legislative action.\nCoordinated civil society communication, fostering collaboration and community engagement in key initiatives."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KOEX Packaging Solutions"
+        },
+        "roles": [
+          {
+            "name": "Account Executive",
+            "startDate": "2013-11-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "Opened a new market in the USA that remains operational to this day, enabling international presence.\nCoordinated the establishment of a new office and logistics from abroad, ensuring operations and market expansion.\nAchieved significant revenue growth from the first year by effectively acquiring large international accounts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Enforex"
+        },
+        "roles": [
+          {
+            "name": "Summer Camp Coordinator",
+            "startDate": "2012-07-01",
+            "finishDate": "2012-07-01",
+            "challenges": [
+              {
+                "description": "Managed a multilingual team of 5 persons, facilitating effective communication, individual participant tracking, resource management, and prioritizing group and team safety. \nContributed to non-formal education program planning, ensuring its effective execution. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BLUE HERON PLANT BIODYNAMICS"
+        },
+        "roles": [
+          {
+            "name": "R&D Collaboration",
+            "startDate": "2012-04-01",
+            "finishDate": "2013-09-01",
+            "challenges": [
+              {
+                "description": "Collaborated in the research, design, and development of new natural origin pesticides, fostering the development of new product lines."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Université de la Méditerranée"
+        },
+        "roles": [
+          {
+            "name": "Molecular Synthesis Research Internship",
+            "startDate": "2011-04-01",
+            "finishDate": "2011-06-01",
+            "challenges": [
+              {
+                "description": "Assisted as a Ph.D. assistant in advancing research efforts in the synthesis and analysis of bioactive anticancer molecules, potentially contributing to the development of new treatments or therapies."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Atlassian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SketchUp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/cramirezlopezramallal/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cristinarlr",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "cristinarlr@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Project Manager & Delivery Manager",
+        "Scrum Master & Agile Coach"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "C",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Notion",
+        "type": "technology"
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job is one that aligns with my passion for problem-solving and curiosity-driven approach to seeking new challenges and learning, while also allowing me to create a positive impact on people's lives and the environment. \n\nIn my work environment, I highly value trust, flexibility, and the clear establishment of roles and objectives, alongside the adoption of agile methodologies that prioritize human values for optimal performance and results. An ideal work day for me would involve a blend of technical and managerial roles, fostering teamwork and effective communication to create an environment where each person can contribute their best. \n\nI see myself as someone who enjoys both individual contribution and responsibility for others, preferring a mix of technical and managerial roles that allow me to make a human and/or environmental impact through my work."
+  }
+}
