@@ -36,6 +36,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "Telefonica Tech"
+        },
+        "roles": [
+          {
+            "name": "Cybersecurity Operations & Service Manager",
+            "startDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "Responsible for the management, control and monitoring of cybersecurity services within the Protect, Detect and Response areas. This role involves operational coordination and daily supervision to ensure the proper functioning of cybersecurity services. Tasks include:\n\n• Service management and monitoring to ensure the correct functioning of the Protect, Detect, and Response lines by obtaining metrics and preparing dashboards.\n• Review and assignment of queries, which involves understanding the scope of each service to assign tasks correctly and efficiently.\n• Risk assessment and proposed solutions to identify and mitigate cyber risks.\n• Maintenance and improvement of procedures\n• Preparation of reports and communication of findings\n• Training and collaboration with other security and IT teams"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Looker Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Bosques Naturales S.A."
         },
         "roles": [
